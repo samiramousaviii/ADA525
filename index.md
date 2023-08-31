@@ -37,3 +37,9 @@ Priliminary model
 ![Profile Picture](image/model2.jpg)
 ![Profile Picture](image/model3.jpg)
 ![Profile Picture](image/model4.jpg)
+---
+title: about me
+layout: home
+---
+ I am Samira, an architect with a passion for pushing the boundaries of traditional design and construction methods. With a deep understanding of architectural aesthetics and a flair for innovative solutions, I am dedicated to transforming spaces through the development of an adaptable concrete brick mold that promises to improve the way we design and build.
+With three years of experience in the field of architecture, I've had the privilege of being part of many different projects. Each project has been a chance for me to take on new design challenges and come up with solutions. It all started with my degree in architecture, where I learned a lot about design, making sure things are strong and stable, and exploring different materials. This education gave me a solid base, and now I'm always curious and driven to find new ways to make architecture even better.
