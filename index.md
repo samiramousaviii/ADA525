@@ -3,33 +3,28 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Introduction:
+Welcome to my creative website where architecture meets innovation. I am Samira, an architect with a passion for pushing the boundaries of traditional design and construction methods. With a deep understanding of architectural aesthetics and a flair for innovative solutions, I am dedicated to transforming spaces through the development of an adjustable concrete brick mold that promises to improve the way we design and build.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+![Profile Picture](../images/ProfilePicture_3.jpg)
 
-More specifically, the created site:
+Introduction:
+Welcome to my creative website where architecture meets innovation. I am Samira, an architect with a passion for pushing the boundaries of traditional design and construction methods. With a deep understanding of architectural aesthetics and a flair for innovative solutions, I am dedicated to transforming spaces through the development of an adaptable concrete brick mold that promises to improve the way we design and build.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Background:
+With three years of experience in the field of architecture, I've had the privilege of being part of many different projects. Each project has been a chance for me to take on new design challenges and come up with solutions. It all started with my degree in architecture, where I learned a lot about design, making sure things are strong and stable, and exploring different materials. This education gave me a solid base, and now I'm always curious and driven to find new ways to make architecture even better.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+Unleashing Innovation:
+At the heart of this vision lies the creation of an adaptable mold, designed and crafted to effortlessly produce concrete bricks in an array of shapes and sizes. This breakthrough empowers architects, designers, and builders, granting them unprecedented flexibility to craft captivating, unparalleled walls and facades. Its transformative capabilities elevate conventional practices, unleashing the potential for extraordinary architectural designs. This concept's standout features include:
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Efficient Production Streamlining
+The mold's seamless adjustability accelerates the brick-making process, redefining efficiency in production.
 
-To get started with creating a site, simply:
+Sustainable Advancement
+Its adaptability across diverse projects exemplifies a dedication to eco-friendly construction practices, championing sustainability.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+Economically Ingenious
+By eliminating the need for customized bricks for each design, the mold significantly reduces production costs and material waste.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Unbridled Creative Expression
+Empowering designers to experiment with a plethora of brick shapes, the mold enables the creation of captivating, unique patterns.
