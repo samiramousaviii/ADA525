@@ -6,7 +6,7 @@ layout: home
 Introduction:
 Welcome to my creative website where architecture meets innovation. I am Samira, an architect with a passion for pushing the boundaries of traditional design and construction methods. With a deep understanding of architectural aesthetics and a flair for innovative solutions, I am dedicated to transforming spaces through the development of an adjustable concrete brick mold that promises to improve the way we design and build.
 
-![Profile Picture](../images/ProfilePicture_3.jpg)
+![Profile Picture](image/ProfilePicture_3.png)
 
 Introduction:
 Welcome to my creative website where architecture meets innovation. I am Samira, an architect with a passion for pushing the boundaries of traditional design and construction methods. With a deep understanding of architectural aesthetics and a flair for innovative solutions, I am dedicated to transforming spaces through the development of an adaptable concrete brick mold that promises to improve the way we design and build.
