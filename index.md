@@ -30,7 +30,7 @@ Unbridled Creative Expression
 Empowering designers to experiment with a plethora of brick shapes, the mold enables the creation of captivating, unique patterns.
 
 Sketch
-![Profile Picture](image/model4.jpg)
+![Profile Picture](image/sketch.jpg)
 
 Priliminary model
 ![Profile Picture](image/model1.jpg)
