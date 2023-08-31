@@ -1,8 +1,8 @@
-title: ADA525
-description: ADA525 course project
-theme: Just the Docs Template
+title: Just the Docs Template
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
 
-url: https://samiramousaviii.github.io/ADA525
+url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
