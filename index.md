@@ -10,7 +10,7 @@ layout: home
 Hey there! Welcome to my cool website where architecture gets a modern twist.
 
 **about me:**
-I'm Samira, an architect who loves breaking the rules of regular design and building methods. I've worked in the field of architecture and on differnet projectys for some years. Each project is a chance for me to be creative and solve problems. It all began when I was student, learning about design, stability, and materials. I try to think out of the box about how things should look like and find nice ways to make architecture even cooler. Lately, I've been focused on this special concrete brick idea that can change how we create spaces. 
+I'm Samira, an architect who loves breaking the rules of regular design and building methods. I've worked in the field of architecture and on differnet projects for some years. Each project is a chance for me to be creative and solve problems. It all began when I was student, learning about design, stability, and materials. I try to think out of the box about how things should look like and find nice ways to make architecture even cooler. Lately, I've been focused on this special concrete brick idea that can change how we create spaces. 
 
 **about the project:**
 
@@ -18,7 +18,7 @@ In the field of architecture, it is always useful to find ways to avoid repetiti
 
 
 
-The following figure illustrates the preliminary sketch of this design:
+The following figure illustrates the preliminary sketch of the design:
 
 
 ![Profile Picture](image/Sketch.jpg)
@@ -48,6 +48,7 @@ The model consists of a container-like base and four adjustable arms as illustra
 
 
 **Features:**
+
 
 **Efficient Production Streamlining:** Easily adjustable, which speeds up the brick-making process.
 
