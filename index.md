@@ -3,9 +3,12 @@ title: 00_first_assignment
 layout: home
 ---
 title: 01_first_assignment
+layout: home
 ---
 title: 02_first_assignment
+layout: home
 ---
+
 
 ![Profile Picture](image/ProfilePicture_3.png)
 
