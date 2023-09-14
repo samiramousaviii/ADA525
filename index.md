@@ -3,6 +3,11 @@ title: 00_first_assignment
 layout: home
 ---
 
+---
+title: Assignment 01 (CAD Mode1)
+layout: home
+---
+
 
 ![Profile Picture](image/ProfilePicture_3.png)
 
