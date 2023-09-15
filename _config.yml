@@ -7,4 +7,6 @@ url: https://samiramousaviii.github.io/ADA525
 aux_links:
   Template Repository: https://github.com/samiramousaviii/ADA525
 
+include:
+- _posts
 
