@@ -2,7 +2,7 @@
 title: 00_first_assignment
 layout: home
 ---
-[Link Text](https://github.com/samiramousaviii/ADA525/blob/614de1aee86ad1168efe3013b55d59aff14b772a/_posts/2023-09-14-Assignment01.md)
+
 
 
 
